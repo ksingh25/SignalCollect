@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SignalCollecte</string>
+
+    <string-array name="names">
+        <item>Bus</item>
+        <item>Car</item>
+        <item>In Door</item>
+        <item>Out Door</item>
+    </string-array>
+</resources>
