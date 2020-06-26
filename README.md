@@ -12,6 +12,7 @@ TODOs
 - Clean the code
 - Add a write function that saves the data in a file on mobile phone
 - There is a problem that when then phone is in sleep mode then it doesnt collect data
+- CQI values seem to be wrong
 
 
 Here are the References:
