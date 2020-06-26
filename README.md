@@ -14,7 +14,6 @@ TODOs
 - There is a problem that when then phone is in sleep mode then it doesnt collect data
 - CQI values seem to be wrong
 
-
 Here are the References:
 
 1. Illyyne Saffar, Marie-Line Alberi-Morel, Kamal Deep Singh, César Viho. Deep Learning based Speed Profiling for Mobile Users in 5G Cellular Networks. IEEE Globecom, December 2019, Hawaii, USA
